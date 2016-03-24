@@ -1,10 +1,10 @@
-[![apm](https://img.shields.io/apm/l/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![apm](https://img.shields.io/apm/v/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![apm](https://img.shields.io/apm/dm/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-coffeescript.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-coffeescript)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-coffeescript.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffeescript#info=dependencies)
+[![apm](https://img.shields.io/apm/l/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
+[![apm](https://img.shields.io/apm/v/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
+[![apm](https://img.shields.io/apm/dm/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
+[![Travis](https://img.shields.io/travis/idleberg/atom-build-less.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-less)
+[![David](https://img.shields.io/david/dev/idleberg/atom-build-less.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-less#info=dependencies)
 
-# build-coffeescript
+# build-less
 
 [Atom Build](https://atombuild.github.io/) provider for Less, compiles Less into CSS
 
@@ -12,12 +12,12 @@
 
 ### apm
 
-* Install package `apm install build-coffeescript` (or use the GUI)
+* Install package `apm install build-less` (or use the GUI)
 
 ### GitHub
 
 1. Change directory `cd ~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-build-coffeescript build-coffeescript`
+2. Clone repository `git clone https://github.com/idleberg/atom-build-less build-less`
 
 ## Usage
 
@@ -55,4 +55,4 @@ This work is licensed under the [The MIT License](LICENSE.md).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-coffeescript) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-less) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
