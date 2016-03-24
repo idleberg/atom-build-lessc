@@ -1,6 +1,6 @@
 {
   "name": "build-less",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom Build provider for Less, compiles Less",
   "repository": "https://github.com/idleberg/atom-build-less",
   "license": "MIT",
