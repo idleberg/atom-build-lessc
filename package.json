@@ -24,16 +24,16 @@
     }
   },
   "devDependencies": {
-    "babel-eslint": "^5.0.0",
-    "eslint": "^2.4.0",
-    "eslint-config-atom-build": "^2.0.0",
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.10.2",
+    "eslint-config-atom-build": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-coffeelint": "^0.6.0",
     "gulp-debug": "^2.1.2",
-    "gulp-jshint": "^2.0.0",
+    "gulp-jshint": "^2.0.1",
     "gulp-jsonlint": "^1.1.2",
     "gulp-recess": "^1.2.0",
-    "jshint": "^2.9.1"
+    "jshint": "^2.9.2"
   },
   "scripts": {
     "test": "gulp lint"
