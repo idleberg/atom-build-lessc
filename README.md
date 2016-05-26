@@ -6,7 +6,7 @@
 
 # build-lessc
 
-[Atom Build](https://atombuild.github.io/) provider for Less, compiles Less into CSS
+[Atom Build](https://atombuild.github.io/) provider for `lessc`, compiles Less into CSS
 
 ## Installation
 
