@@ -1,10 +1,10 @@
-[![apm](https://img.shields.io/apm/l/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
-[![apm](https://img.shields.io/apm/v/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
-[![apm](https://img.shields.io/apm/dm/build-less.svg?style=flat-square)](https://atom.io/packages/build-less)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-less.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-less)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-less.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-less#info=dependencies)
+[![apm](https://img.shields.io/apm/l/build-lessc.svg?style=flat-square)](https://atom.io/packages/build-lessc)
+[![apm](https://img.shields.io/apm/v/build-lessc.svg?style=flat-square)](https://atom.io/packages/build-lessc)
+[![apm](https://img.shields.io/apm/dm/build-lessc.svg?style=flat-square)](https://atom.io/packages/build-lessc)
+[![Travis](https://img.shields.io/travis/idleberg/atom-build-lessc.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-lessc)
+[![David](https://img.shields.io/david/dev/idleberg/atom-build-lessc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lessc#info=dependencies)
 
-# build-less
+# build-lessc
 
 [Atom Build](https://atombuild.github.io/) provider for Less, compiles Less into CSS
 
@@ -12,9 +12,9 @@
 
 ### apm
 
-Install `build-less` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
+Install `build-lessc` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
 
-`$ apm install build-less`
+`$ apm install build-lessc`
 
 ### GitHub
 
@@ -28,9 +28,9 @@ $ cd %USERPROFILE%\.atom\packages
 $ cd ~/.atom/packages/
 ```
 
-Clone repository as `build-less`:
+Clone repository as `build-lessc`:
 
-`$ git clone https://github.com/idleberg/atom-build-less build-less`
+`$ git clone https://github.com/idleberg/atom-build-lessc build-lessc`
 
 ## Usage
 
@@ -68,4 +68,4 @@ This work is licensed under the [The MIT License](LICENSE.md).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-less) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-lessc) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
