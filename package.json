@@ -1,5 +1,5 @@
 {
-  "name": "build-less",
+  "name": "build-lessc",
   "version": "0.2.2",
   "description": "Atom Build provider for Less, compiles Less",
   "repository": "https://github.com/idleberg/atom-build-less",
