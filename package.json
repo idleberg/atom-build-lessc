@@ -9,7 +9,9 @@
     "compile",
     "less",
     "lessc",
-    "css"
+    "css",
+    "linter",
+    "lint"
   ],
   "main": "lib/provider.js",
   "engines": {
