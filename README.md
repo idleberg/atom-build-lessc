@@ -24,7 +24,7 @@ Change to your Atom packages directory:
 # Windows
 $ cd %USERPROFILE%\.atom\packages
 
-# Mac OS X & Linux
+# Linux & macOS
 $ cd ~/.atom/packages/
 ```
 
