@@ -47,7 +47,7 @@ Available targets:
 The name of the output file can be overridden in your `config.cson`:
 
 ```cson
-"build-coffee":
+"build-lessc":
   outputFile: "{FILE_ACTIVE_NAME_BASE}.css"
 ```
 
