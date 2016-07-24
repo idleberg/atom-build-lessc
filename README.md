@@ -44,6 +44,13 @@ Available targets:
 
 `Less` — compile style-sheet (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>)
 
+The name of the output file can be overridden in your `config.cson`:
+
+```cson
+"build-coffee":
+  outputFile: "{FILE_ACTIVE_NAME_BASE}.css"
+```
+
 ### Shortcuts
 
 Here's a reminder of the default shortcuts you can use with this package:
