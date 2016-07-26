@@ -45,7 +45,7 @@ Available targets:
 
 `Less` — compile style-sheet (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>)
 
-The name of the output file can be overridden in your `config.cson`:
+The name of the output file can be overridden in your `config.cson`, all [standard replacements](https://github.com/noseglid/atom-build#replacements) can be used::
 
 ```cson
 "build-lessc":
