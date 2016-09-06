@@ -5,7 +5,7 @@
 [![apm](https://img.shields.io/apm/dm/build-lessc.svg?style=flat-square)](https://atom.io/packages/build-lessc)
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-lessc.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-lessc)
 [![David](https://img.shields.io/david/idleberg/atom-build-lessc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lessc#info=dependencies)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-lessc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lessc#info=devDependencies)
+[![David](https://img.shields.io/david/dev/idleberg/atom-build-lessc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-lessc?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `lessc`, compiles Less into CSS. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
