@@ -9,6 +9,10 @@
 
 [Atom Build](https://atombuild.github.io/) provider for `lessc`, compiles Less into CSS. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
+![Screenshot](https://raw.githubusercontent.com/idleberg/atom-build-lessc/master/screenshot.png)
+
+*See the linter in action*
+
 ## Installation
 
 ### apm
