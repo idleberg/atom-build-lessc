@@ -39,6 +39,13 @@ Clone repository as `build-lessc`:
 $ git clone https://github.com/idleberg/atom-build-lessc build-lessc
 ```
 
+Install Node dependencies:
+
+```bash
+cd build-lessc
+npm install
+```
+
 ## Usage
 
 ### Build
