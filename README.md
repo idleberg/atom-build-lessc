@@ -39,10 +39,9 @@ Clone repository as `build-lessc`:
 $ git clone https://github.com/idleberg/atom-build-lessc build-lessc
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-lessc
 $ yarn || npm install
 ```
 
