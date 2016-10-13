@@ -1,6 +1,6 @@
 {
   "name": "build-lessc",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "description": "Atom Build provider for lessc, compiles Less",
   "repository": "https://github.com/idleberg/atom-build-lessc",
   "license": "MIT",
