@@ -53,14 +53,10 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-`Less` — compile style-sheet (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>)
+`Less` — compile style-sheet
+`Less (user)` — compile style-sheet with arguments specified in the package settings
 
-The name of the output file can be overridden in your `config.cson`, all [standard replacements](https://github.com/noseglid/atom-build#replacements) can be used:
-
-```cson
-"build-lessc":
-  outputFile: "{FILE_ACTIVE_NAME_BASE}.css"
-```
+You can change the name of the output file in the package settings, where all [standard replacements](https://github.com/noseglid/atom-build#replacements) can be used.
 
 ### Shortcuts
 
